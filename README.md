@@ -31,16 +31,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thejshri-a&show_icons=true&locale=en" alt="thejshri-a" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thejshri-a&" alt="thejshri-a" /></p>
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Thejshri-A/Thejshri-A/output/snake.svg" alt="Snake animation" />
-
-###
