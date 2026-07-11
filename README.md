@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://thejshri-a.github.io/My-Page-1/](https://thejshri-a.github.io/My-Page-1/)
+- 👨‍💻 All of my projects are available at [https://thejshri-a.github.io/portfolio] (https://thejshri-a.github.io/portfolio))
 
 - 📫 How to reach me **a.thejshri.code@gmail.com**
 
